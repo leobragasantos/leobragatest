@@ -1,0 +1,7 @@
+echo "# leobragatest" >> leobragasantos_readme.md
+git init
+git add leobragasantos_readme.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/leobragasantos/leobragatest.git
+git push -u origin main
